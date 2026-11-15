@@ -4,7 +4,7 @@
 [![Rank](https://make.fun/badge/token-radar-01/RenzzHGE/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01)
 [![Reward](https://make.fun/badge/token-radar-01/RenzzHGE/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01)
 
-Token Radar ranks every pre-token protocol in the sealed snapshot by what its token launch would be worth — TVL times the multiple the live market pays its category — and gives each one a seven-step farm plan with costs and times, in a sortable, filterable dashboard.
+Token Radar ranks every pre-token protocol in the sealed snapshot by what its token launch would be worth — its TVL times the multiple the live market pays its category — and gives each one a seven-step farm plan with costs and times, in a sortable, filterable dashboard.
 
 ## Run it
 
